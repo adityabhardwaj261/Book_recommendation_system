@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Wl6eYo0_x7E0_ITgJlmg8ikYFBt4ntHg
 """
 
-
-
-
 import streamlit as st
 import pandas as pd
 from joblib import load
